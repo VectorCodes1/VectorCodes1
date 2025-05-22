@@ -1,4 +1,14 @@
-## Hi there 👋
+## Who am I?🔭
+
+⚡Hello my name is Matias I am a 20 year old student pursuing my Bachelor's Degree in Electrical Engineering - Comphrenesive at the University of Central Florida!
+⚡
+
+## Socials:💬
+
+
+
+## Programming Languages:
+
 
 <!--
 **VectorCodes1/VectorCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
