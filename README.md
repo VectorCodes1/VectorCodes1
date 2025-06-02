@@ -4,23 +4,16 @@
 ⚡
 
 ## Socials:💬
+Linkedin: www.linkedin.com/in/matias-gabriel-guillen 
 
-
+Discord: vector8925
 
 ## Programming Languages:
 
+C, C++, Python, Verilog, MIPS Assembly
+<img src="https://github.com/user-attachments/assets/08d75957-3742-4235-a020-5ab72fc3a267" width="50"/>
+<img src="https://github.com/user-attachments/assets/eb1c589f-2f08-4bd4-8166-d5e4761ffd7e" width="45"/>
+<img src="https://github.com/user-attachments/assets/2f2aa8c8-30a3-4faf-90c4-0bb1fa612944" width="50"/>
+<img src="https://github.com/user-attachments/assets/bd97e03a-71ac-41bd-83e5-294efffb5524" width="50"/>
 
-<!--
-**VectorCodes1/VectorCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
