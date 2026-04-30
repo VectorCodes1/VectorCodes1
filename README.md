@@ -1,6 +1,6 @@
 ## Who am I?🔭
 
-⚡Hello my name is Matias I am a 20 year old student pursuing my Bachelor's Degree in Electrical Engineering - Comphrenesive at the University of Central Florida!
+⚡Hello my name is Matias I am a 21 year old student pursuing my Bachelor's Degree in Electrical Engineering - Comphrenesive at the University of Central Florida!
 ⚡
 
 ## Socials:💬
